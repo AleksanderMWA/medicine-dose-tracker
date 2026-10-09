@@ -173,7 +173,7 @@ The date and time are extracted from the record and displayed on the LCD in two 
 If the file is missing, empty, or contains data in an unexpected format, the device displays an appropriate error or information message.
 <br><br>
 
-### 5.3.3. Deleting the Last Recorded Dose
+#### 5.3.3. Deleting the Last Recorded Dose
 
 When the red button is pressed, the firmware reads the history file, identifies the last entry, and attempts to remove it from the stored contents.
 
